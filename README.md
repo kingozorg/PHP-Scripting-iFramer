@@ -11,15 +11,3 @@ If you now call the index.php in the folder above, all subfolders of the folder 
 and you can easily and quickly jump between your scripts via a drop-down menu. 
 
 The advantage: Whenever you create a script or a new folder, the menu is updated automatically. 
-
--> index.php
-      /tools/
-             /folderofscripts1/
-                                script1.php
-                                script2.php
-             /folderofscripts2/
-                                script1.php
-                                script2.php
-                                script3.php
-             /folderofscripts3/
-                                scriptABC.php
