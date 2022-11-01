@@ -1,7 +1,7 @@
 # PHP-Scripting-iFramer
 Easy way to built a demo app from php code snippets and scripts.
 
-I am not a good programmer and many things i do are just for me and rather small scripts. 
+Many things i do are just for me and rather small scripts. 
 To still use different scripts quickly, I use this tool.
 
 How it works: 
