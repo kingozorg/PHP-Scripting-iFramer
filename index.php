@@ -3,10 +3,9 @@
 error_reporting(E_ERROR);
 
 ////////////////////////////////////////////////////////////////////////////////
-// Path: index-melt.php
+// PHP Scripting iFramer v1
 
-
-# config
+# config folder name
 $path_tools = "tools/";
 
 $scriptname = basename(__FILE__);
