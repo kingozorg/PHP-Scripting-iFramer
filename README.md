@@ -10,4 +10,5 @@ and you can easily and quickly jump between your scripts via a drop-down menu.
 The advantage:<br> 
 Whenever you create a script or a new folder, the menu is updated automatically. 
 
+Example:<br> 
 https://github.com/kingozorg/PHP-Scripting-iFramer/blob/e662b7ccf2d48e46cfd63b5e98c3dfc46af8cbb3/github-demo-script.jpg
